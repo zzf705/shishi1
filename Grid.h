@@ -31,6 +31,7 @@ public:
 	//double fieldRealStength;
 	map<int,double> fieldRealStrength;
 	//int flag;
+	//mmm
 public:
 	//¹¹Ôìº¯Êý
 	Grid(){};
